@@ -1,5 +1,5 @@
 # Capstone-Project
-Forecasting time series in QWIM (quantitative wealth and investment management) in NYU
+Forecasting time series in QWIM (quantitative wealth and investment management)
 
 Team Name: Stellalou  
   
